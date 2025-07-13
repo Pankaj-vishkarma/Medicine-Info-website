@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.footer-box{
+    height: 120px;
+    width: 100%;
+    background-color: black;
+    position: absolute;
+    position: relative;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.footer-contain{
+    height: 30px;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+}
+
+.footer-content{
+    padding-top: 20px;
+   color: azure;
+}

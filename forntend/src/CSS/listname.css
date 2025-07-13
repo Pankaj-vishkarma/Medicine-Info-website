@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.list-box{
+    min-height: 60vh;
+    padding:10px;
+    background: linear-gradient(90deg,#00d2ff 0%,#3a47d5 100% );
+    background-repeat: no-repeat;
+    justify-content: center;
+    text-align: center;
+    
+
+}
+.list-box-2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.list-box-2 div{
+    margin: 20px;
+}
+.list-box-3{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.list-box-3 div{
+    margin: 20px;
+}

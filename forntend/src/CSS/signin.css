@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.signin-box{
+    height: 400px;
+    width: 300px;
+    background-color: aquamarine;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+    margin-left: 40%;
+}
+
+.signin-box input,button{
+    margin: 20px;
+}

@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.add-box{
+    min-height: 60vh;
+    padding:10px;
+    background: linear-gradient(90deg,#00d2ff 0%,#3a47d5 100% );
+    background-repeat: no-repeat;
+    
+
+}
